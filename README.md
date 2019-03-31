@@ -27,38 +27,17 @@
    - [AMD以及requirejs的用法](<http://www.ruanyifeng.com/blog/2012/11/require_js.html>)
    - [AMD CMD CommonJS 和 ES6 module](<http://www.ruanyifeng.com/blog/2012/11/require_js.html>)
 
-10. [axios,fetch,ajax](<https://juejin.im/post/5acde23c5188255cb32e7e76>)
+10. [axios,fetch,ajax区别](<https://juejin.im/post/5acde23c5188255cb32e7e76>)，[axios详解](<https://ykloveyxk.github.io/2017/02/25/axios%E5%85%A8%E6%94%BB%E7%95%A5/#more>)
 
-  [axios](<https://ykloveyxk.github.io/2017/02/25/axios%E5%85%A8%E6%94%BB%E7%95%A5/#more>)
-
-11. [前端鉴权](<https://juejin.im/post/5c6e6063f265da2da53ec8f3#heading-5>)
-
-   [JWT](<http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html>)
-
-
-
-1. [手写一个promise](<https://juejin.im/post/5a30193051882503dc53af3c#heading-11>)
-2. 深浅拷贝
-3. application cache
-4. 移动端1px问题
-5. pwa
-6. 502
-7. 发布订阅者模式
-8. 只是需要鉴权，判断是否有权限或者是否登陆。
-9. 如何保存路由信息呢，比如刷新？
-10. Vue react区别
-11. z-index 一定是数越大层级越在上面吗
-
-
+11. [前端鉴权](<https://juejin.im/post/5c6e6063f265da2da53ec8f3#heading-5>)，[JWT](<http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html>)，[OAuth2.0](<http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html>)
 
 
 
 #### CSS
 
 1. [Flex解决常见布局](<https://juejin.im/post/5b0d6ca76fb9a009fd0e9329>)
-2. 
-3. [移动端1px问题](<https://juejin.im/post/5af136b8f265da0b7a20a40e>)
-4. [[Grid布局](http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)](<http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html>)
+2. [移动端1px问题](<https://juejin.im/post/5af136b8f265da0b7a20a40e>)
+3. [Grid布局](http://www.ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
 
 
 
@@ -87,7 +66,6 @@
 
 7. [虚拟DOM&Diff算法](<https://juejin.im/post/5c8e5e4951882545c109ae9c?utm_source=gold_browser_extension>)
 
-8. 
 
 #### 网络
 
@@ -107,27 +85,12 @@
 
 5. [TCP常见异常 - 需要再看一下](<http://www.cnblogs.com/wanpengcoder/p/5356776.html>)
 
-6. 
-
-
-
-
 
 #### 其他
 
-1. webpack原理 [1](<https://juejin.im/post/5b38d27451882574d87aa5d5>) , [2](<https://juejin.im/post/5badd0c5e51d450e4437f07a>)
+1. webpack原理 [1](<https://juejin.im/post/5b38d27451882574d87aa5d5>) , [2](<https://github.com/chinanf-boy/minipack-explain/blob/master/explain.md#%E6%A8%A1%E5%9D%97%E6%8D%86%E7%BB%91%E5%99%A8>)，[3](<https://juejin.im/post/5badd0c5e51d450e4437f07a>)
 
 
-
-1. git rebase和merge的区别
-
-2. https://juejin.im/post/5b4cb141e51d45195c072ef3>
-
-   <https://www.jianshu.com/p/e4c872be2cae
-
-   <https://juejin.im/post/5c259815e51d455d382eca6c>
-
-   <https://juejin.im/user/56dea4aa7664bf00559f002d/posts>
 
 
 #### 一些合集
